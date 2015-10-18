@@ -148,7 +148,7 @@ console.log("Running Bot Launcher!");
             var bList = window.jQuery('#bList');
             window.jQuery('<option />', {
                 value: (window.botList.length - 1),
-                text: "Human"
+                text: "afit_seti"
             }).appendTo(bList);
         }
 
